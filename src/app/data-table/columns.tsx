@@ -5,7 +5,6 @@ import { ArrowUpDown, MoreHorizontal } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
 import { Employee } from "@/services/employees"
-import { payments } from "../../../_data/payment_data"
 
 
 export const columns: ColumnDef<Employee>[] = [
